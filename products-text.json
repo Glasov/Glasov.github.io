@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "label": "Chat GPT",
+        "serviceUrl": "https://chat.openai.com",
+        "description": "asd",
+        "image": "https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg",
+        "tags": ["чат", "openAI", "бесплатно", "подписка"]
+    }
+]

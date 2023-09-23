@@ -1,0 +1,11 @@
+[
+    {
+        "id": 5,
+        "label": "DeepAI Chat",
+        "serviceUrl": "https://deepai.org/chat",
+        "description": "Чат с возможностью написания текстов, стихов и многого другого. Есть возможность пообщаться с \"философом\", \"поэтом\", \"пьяным другом\", получить рекомендации из кино и много чего еще. Очень простой в оствоении.",
+        "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gskmmjezktto0dgsxt6w",
+        "tags": ["текст", "бесплатно", "чат", "просто"],
+        "category": "fun"
+    }
+]

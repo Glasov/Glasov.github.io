@@ -1,81 +1,83 @@
 [
     {
-      "id": 1,
-      "label": "ChatGPT",
-      "serviceUrl": "https://chat.openai.com/",
-      "description": "Модель искусственного интеллекта, разработанная OpenAI. Она представляет собой мощный инструмент для ведения бесед и создания текстовых контентов на различные темы. ChatGPT обучен на множестве текстовых данных и способен выполнять разнообразные задачи, благодаря своей гибкости и знаниям.",
-      "image": "https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg",
-      "tags": ["текст", "бесплатно", "чат", "платно"],
-      "category": "text"
+        "id": 1,
+        "label": "ChatGPT",
+        "serviceUrl": "https://chat.openai.com/",
+        "description": "Модель искусственного интеллекта, разработанная OpenAI. Она представляет собой мощный инструмент для ведения бесед и создания текстовых контентов на различные темы. ChatGPT обучен на множестве текстовых данных и способен выполнять разнообразные задачи, благодаря своей гибкости и знаниям.",
+        "image": "https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg",
+        "tags": ["текст", "бесплатно", "чат", "платно"],
+        "category": "text"
     },
     {
-      "id": 4,
-      "label": "Bard",
-      "serviceUrl": "https://bard.google.com/",
-      "description": "Bard - языковая модель, или чат-бот, который обучен на огромном объеме текстовых данных. Он способен отвечать на разнообразные вопросы и генерировать творческий текст, включая стихи, код, и многое другое.",
-      "image": "https://logowik.com/content/uploads/images/google-bard3872.logowik.com.webp",
-      "tags": ["текст", "бесплатно", "чат"],
-      "category": "text"
+        "id": 4,
+        "label": "Bard",
+        "serviceUrl": "https://bard.google.com/",
+        "description": "Bard - языковая модель, или чат-бот, который обучен на огромном объеме текстовых данных. Он способен отвечать на разнообразные вопросы и генерировать творческий текст, включая стихи, код, и многое другое.",
+        "image": "https://logowik.com/content/uploads/images/google-bard3872.logowik.com.webp",
+        "tags": ["текст", "бесплатно", "чат"],
+        "category": "text"
     },
     {
-      "id": 5,
-      "label": "DeepAI Chat",
-      "serviceUrl": "https://deepai.org/chat",
-      "description": "Чат с возможностью написания текстов, стихов и многого другого. Есть возможность пообщаться с \"философом\", \"поэтом\", \"пьяным другом\", получить рекомендации из кино и много чего еще. Очень простой в оствоении.",
-      "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gskmmjezktto0dgsxt6w",
-      "tags": ["текст", "бесплатно", "чат", "просто"],
-      "category": "text"
+        "id": 5,
+        "label": "DeepAI Chat",
+        "serviceUrl": "https://deepai.org/chat",
+        "description": "Чат с возможностью написания текстов, стихов и многого другого. Есть возможность пообщаться с \"философом\", \"поэтом\", \"пьяным другом\", получить рекомендации из кино и много чего еще. Очень простой в оствоении.",
+        "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gskmmjezktto0dgsxt6w",
+        "tags": ["текст", "бесплатно", "чат", "просто"],
+        "category": "text"
     },
     {
-      "id": 6,
-      "label": "HuggingChat",
-      "serviceUrl": "https://huggingface.co/chat/",
-      "description": "Чат с моделью llama от Фейсбук. Полностью бесплатный и имеет доступ в интернет, что позволяет получать более точные и актуальные ответы; выдаёт источники информации. Минус - нет возможности продолжить генерацию ответа",
-      "image": "https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/5dd96eb166059660ed1ee413/Lsp3CYZcO1edKaWuC5nW4.png?w=200&h=200&f=face",
-      "tags": ["интернет", "текст", "чат", "бесплатно"],
-      "category": "text"
+        "id": 6,
+        "label": "HuggingChat",
+        "serviceUrl": "https://huggingface.co/chat/",
+        "description": "Чат с моделью llama от Фейсбук. Полностью бесплатный и имеет доступ в интернет, что позволяет получать более точные и актуальные ответы; выдаёт источники информации. Минус - нет возможности продолжить генерацию ответа",
+        "image": "https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/5dd96eb166059660ed1ee413/Lsp3CYZcO1edKaWuC5nW4.png?w=200&h=200&f=face",
+        "tags": ["интернет", "текст", "чат", "бесплатно"],
+        "category": "text"
     },
     {
-      "id": 8,
-      "label": "Notion AI",
-      "serviceUrl": "http://www.notion.so/",
-      "description": "Очень удобный инструмент для генерации текста, таблиц, данных и тд. Сильно ускоряет работу в самом notion, имеет информацию о содержании и структуре документа. Позволяет избавиться от рутины",
-      "image": "https://www.conversion.com.br/wp-content/uploads/2023/02/notion-ai.png",
-      "tags": ["бесплатно", "платно", "текст", "данные"],
-      "category": "text"
+        "id": 8,
+        "label": "Notion AI",
+        "serviceUrl": "http://www.notion.so/",
+        "description": "Очень удобный инструмент для генерации текста, таблиц, данных и тд. Сильно ускоряет работу в самом notion, имеет информацию о содержании и структуре документа. Позволяет избавиться от рутины",
+        "image": "https://www.conversion.com.br/wp-content/uploads/2023/02/notion-ai.png",
+        "tags": ["бесплатно", "платно", "текст", "данные"],
+        "category": "text"
     },
     {
-      "id": 9,
-      "label": "Copy.ai",
-      "serviceUrl": "https://app.copy.ai/",
-      "image": "https://yt3.googleusercontent.com/WETI5uqYhGrWCpSxIMhBYgMhM0Mp2uhE4NjxatkSJv2dmSMWaoecrF1WEEwDiXM5I3NIkLvbbw=s900-c-k-c0x00ffffff-no-rj",
-      "tags": ["бесплатно", "текст", "файлы", "чат"],
-      "category": "text"
+        "id": 9,
+        "label": "Copy.ai",
+        "serviceUrl": "https://app.copy.ai/",
+        "description": "",
+        "image": "https://yt3.googleusercontent.com/WETI5uqYhGrWCpSxIMhBYgMhM0Mp2uhE4NjxatkSJv2dmSMWaoecrF1WEEwDiXM5I3NIkLvbbw=s900-c-k-c0x00ffffff-no-rj",
+        "tags": ["бесплатно", "текст", "файлы", "чат"],
+        "category": "text"
     },
     {
-      "id": 10,
-      "label": "Bing",
-      "serviceUrl": "https://www.bing.com/",
-      "image": "https://cdn.vox-cdn.com/thumbor/FnM2Fven2oJe6DH883pzLk960yY=/0x0:660x440/1400x1400/filters:focal(330x220:331x221)/cdn.vox-cdn.com/uploads/chorus_asset/file/21937385/binglogo.jpg",
-      "tags": ["поиск", "текст", "бесплатно", "чат"],
-      "category": "text"
+        "id": 10,
+        "label": "Bing",
+        "serviceUrl": "https://www.bing.com/",
+        "description": "",
+        "image": "https://cdn.vox-cdn.com/thumbor/FnM2Fven2oJe6DH883pzLk960yY=/0x0:660x440/1400x1400/filters:focal(330x220:331x221)/cdn.vox-cdn.com/uploads/chorus_asset/file/21937385/binglogo.jpg",
+        "tags": ["поиск", "текст", "бесплатно", "чат"],
+        "category": "text"
+      },
+      {
+        "id": 11,
+        "label": "Character.ai",
+        "serviceUrl": "https://character.ai/",
+        "description": "Character.AI воплощает в жизнь мечту научной фантастики об открытых разговорах и сотрудничестве с компьютерами. Мы создаем следующее поколение диалоговых агентов; с длинным хвостом приложений, охватывающих развлечения, образование, общие вопросы-ответы и другие. Наши диалоговые агенты работают на основе собственной запатентованной технологии, основанной на больших языковых моделях, построенных и обученных с нуля с учетом разговоров.",
+        "image": "https://play-lh.googleusercontent.com/fTNuw4Wv-JbIvq3yONyqU2aGQ0eB6vTgHYrjmq6MlMtngeR75Qp_at5kiYUs7P6LnqU",
+        "tags": ["текст", "чат"],
+        "category": "text"
     },
     {
-      "id": 11,
-      "label": "Character.ai",
-      "serviceUrl": "https://character.ai/",
-      "description": "Character.AI воплощает в жизнь мечту научной фантастики об открытых разговорах и сотрудничестве с компьютерами. Мы создаем следующее поколение диалоговых агентов; с длинным хвостом приложений, охватывающих развлечения, образование, общие вопросы-ответы и другие. Наши диалоговые агенты работают на основе собственной запатентованной технологии, основанной на больших языковых моделях, построенных и обученных с нуля с учетом разговоров.",
-      "image": "https://play-lh.googleusercontent.com/fTNuw4Wv-JbIvq3yONyqU2aGQ0eB6vTgHYrjmq6MlMtngeR75Qp_at5kiYUs7P6LnqU",
-      "tags": ["текст", "чат"],
-      "category": "text"
-    },
-    {
-      "id": 12,
-      "label": "HyperWrite",
-      "serviceUrl": "https://app.hyperwriteai.com/",
-      "description": "Помощник написания документов и статей. Немного сложен в освоении, требуется регистрация",
-      "image": "https://uploads-ssl.webflow.com/63fcd79d410b22ddf397e1b8/6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp",
-      "tags": ["текст", "документы", "платный", "бесплатный", "чат"],
-      "category": "text"
+        "id": 12,
+        "label": "HyperWrite",
+        "serviceUrl": "https://app.hyperwriteai.com/",
+        "description": "Помощник написания документов и статей. Немного сложен в освоении, требуется регистрация",
+        "image": "https://uploads-ssl.webflow.com/63fcd79d410b22ddf397e1b8/6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp",
+        "tags": ["текст", "документы", "платный", "бесплатный", "чат"],
+        "category": "text"
     }
 ]

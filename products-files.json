@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "label": "AI PDF",
+        "serviceUrl": "https://pdf.ai/",
+        "description": "От юридических соглашений до финансовой отчетности, PDF.ai оживляет ваши документы. Вы можете задавать вопросы, получать резюме, находить информацию и многое другое.",
+        "image": "https://store-images.s-microsoft.com/image/apps.8426.14305820202018697.28b13981-d85c-4a4b-a413-7d2a516c73bc.55d1dc52-e901-4fe9-8bad-4ac64e5d7cd8",
+        "tags": ["файлы", "текст", "pdf", "бесплатно", "платное", "чат"],
+        "category": "files"
+    },
+    {
+        "id": 12,
+        "label": "HyperWrite",
+        "serviceUrl": "https://app.hyperwriteai.com/",
+        "description": "Помощник написания документов и статей. Немного сложен в освоении, требуется регистрация",
+        "image": "https://uploads-ssl.webflow.com/63fcd79d410b22ddf397e1b8/6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp",
+        "tags": ["текст", "документы", "платный", "бесплатный", "чат"],
+        "category": "files"
+    }
+]

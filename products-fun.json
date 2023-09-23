@@ -7,5 +7,14 @@
         "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gskmmjezktto0dgsxt6w",
         "tags": ["текст", "бесплатно", "чат", "просто"],
         "category": "fun"
+    },
+    {
+        "id": 11,
+        "label": "Character.ai",
+        "serviceUrl": "https://character.ai/",
+        "description": "Character.AI воплощает в жизнь мечту научной фантастики об открытых разговорах и сотрудничестве с компьютерами. Мы создаем следующее поколение диалоговых агентов; с длинным хвостом приложений, охватывающих развлечения, образование, общие вопросы-ответы и другие. Наши диалоговые агенты работают на основе собственной запатентованной технологии, основанной на больших языковых моделях, построенных и обученных с нуля с учетом разговоров.",
+        "image": "https://play-lh.googleusercontent.com/fTNuw4Wv-JbIvq3yONyqU2aGQ0eB6vTgHYrjmq6MlMtngeR75Qp_at5kiYUs7P6LnqU",
+        "tags": ["текст", "чат"],
+        "category": "text"
     }
 ]
